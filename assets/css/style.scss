@@ -9,6 +9,6 @@
 	color:blue;	
 }
 
-.main-content h2:nth-child(1){
+.main-content > section:nth-child(5) > article:nth-child(1) > h2:nth-child(1){
 	color:black!important;		
 }
