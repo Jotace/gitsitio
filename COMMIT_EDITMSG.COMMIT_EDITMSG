@@ -1,0 +1,26 @@
+parrafo de estamos trabajando
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+index c980e23..fa04a91 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,13 @@
+ 	<title>Gitsitio Home</title>
+ </head>
+ <body>
+-	<h3>This is Sparta Git from code</h3>
++	<header id="header" class="">
++	<h1>Esto es Sparta Git desde código</h1>
++	</header><!-- /header -->
++	<section>
++	<article>
++		<p>Lamentamos las molestias, estamos tabajando para usted...</p>
++	</article>		
++	</section>
+ </body>
+ </html>
+\ No newline at end of file
